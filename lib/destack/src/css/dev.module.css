@@ -1,30 +1,30 @@
 .gjs-one-bg {
-  background-color: white !important;
+  background-color: #4e972f !important;
 }
 .gjs-three-bg {
-  color: white !important;
-  background-color: #6366f1 !important;
+  background-color: #4e972f !important;
+  color: white;
 }
 
 .gjs-two-color {
-  color: #6366f1 !important;
+  color: #4e972f !important;
 }
 
 .gjs-four-color {
-  color: #6366f1 !important;
+  color: #4e972f !important;
 }
 .gjs-four-color-h:hover {
-  color: #6366f1 !important;
+  color: #4e972f !important;
   background-color: #f1f1f1 !important;
 }
 
 .gjs-field {
-  color: #6366f1 !important;
+  color: rgb(78, 151, 47) !important;
   background-color: #f1f1f1 !important;
 }
 
 .gjs-field-checkbox input:checked + .gjs-chk-icon {
-  border-color: rgba(99, 102, 241, 0.5); /* #6366f1 */
+  border-color: rgba(78, 151, 47, .5); /* #6366f1 */
 }
 
 .gjs-category-title,
@@ -47,12 +47,12 @@
 .gjs-clm-tags .gjs-clm-select select,
 .gjs-sm-sector .gjs-clm-field select,
 .gjs-clm-tags .gjs-clm-field select {
-  color: #6366f1 !important;
+  color: #4e972f !important;
   background-color: #f1f1f1 !important;
 }
 
 ::placeholder {
-  color: #6365f186;
+  color: #4e972f86;
   opacity: 1;
 }
 
@@ -71,7 +71,7 @@
 }
 
 #gjs-clm-new {
-  color: #6365f1 !important;
+  color: #4e972f !important;
 }
 
 /* hides component settings panel */
